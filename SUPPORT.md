@@ -21,8 +21,7 @@ The Kubernetes Community is active on Stack Overflow, you can post your question
 ### Real-time Chat
 
 * [Slack](https://kubernetes.slack.com) ([registration](https://slack.k8s.io)):
-The `#kubernetes-users` and `#kubernetes-novice` channels are usual places where
-people offer support.
+The #kubernetes-users and #kubernetes-novice channels are common places where people offer support and answer questions.
 
 ### Forum
 
